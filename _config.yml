@@ -1,4 +1,3 @@
-layout_spectrum: 0.6491852242033929
 typography_spectrum: 0.9256703692954034
 color:
   brandStrength: 0.8136015003547072
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.6491852242033929
 name: AzzaAU
+title: Playpen
 description: A collection of stuff I like
